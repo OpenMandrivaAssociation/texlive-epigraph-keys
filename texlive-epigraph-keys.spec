@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Epigraphs using key values
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/epigraph-keys
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/epigraph-keys
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/epigraph-keys.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/epigraph-keys.doc.r%{version}.tar.xz
